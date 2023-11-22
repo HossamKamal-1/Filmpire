@@ -8,7 +8,7 @@
 
 
 ##  About Me
-I'm front-end
+I'm a front-end
 developer with a passion for
 creating beautiful and
 responsive websites. I love
@@ -52,7 +52,7 @@ To run this project, you will need to add the following environment variables to
 
 `VITE_TMDB_KEY = YOUR_API_KEY`
 
-Get your API key from TMDP: https://developer.themoviedb.org/reference/intro/getting-started
+Get your API key from TMDB: https://developer.themoviedb.org/reference/intro/getting-started
 
 ## Prerequisites
 This project uses Yarn as a package manager
