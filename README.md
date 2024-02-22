@@ -122,7 +122,7 @@ yarn build
 
 `Netlify Demo:`
 
-https://655bea10ebc67a008dbe78fd--cerulean-liger-038a3d.netlify.app/?category=popular
+https://filmpire-movies.netlify.app/
 
 `GIF:`
 
